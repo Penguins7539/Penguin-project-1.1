@@ -1,1 +1,2 @@
-# Penguin-project-1.1
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
